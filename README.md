@@ -15,7 +15,7 @@
 - You must download full of the packages from releases.
 
 ## 🚀 How to use?
-- Start "launch.bat" file.
+- Start "launch.exe" file.
 - Write your target server address.
 - Wait for the localhost creation process
 - After creation process, join to "localhost"
