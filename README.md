@@ -10,7 +10,7 @@
 - 🟢 Update: **v2.0/3-11-2025** [Working]
 
 ## ⚠️ Requirements
-- Target server must have **"AuthMe"** or **"AuthMeRemastered"** plugin.
+- Target server must have **"AuthMe"** or **"AuthMeReloaded"** plugin.
 - Target server must have several addresses, ports etc.
 - You must download full of the packages from releases.
 
