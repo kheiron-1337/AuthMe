@@ -25,4 +25,4 @@
 ## 📥 Downloads
 - Release v1.0/06-10-2023
 - [Release v2.0/03-11-2025](https://github.com/kheiron-1337/AuthMe/releases/tag/v2.0_03-11-2025)
-- [Download ZIP - Last Release](https://codeload.github.com/kheiron-1337/AuthMe/zip/refs/heads/main)
+- [Download ZIP - Last Release](https://codeload.github.com/kheiron-1337/AuthMe/zip/refs/heads/master)
