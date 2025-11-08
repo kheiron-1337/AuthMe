@@ -46,6 +46,8 @@ By implementing these defensive measures, administrators can ensure their networ
 - Target server must have several addresses, ports etc.
 - You must download full of the packages from releases.
 
+## ⚠️ Errors
+- Check [Error List](https://github.com/kheiron-1337/AuthMe/blob/master/errors.md)
 
 ## 🚀 How to use?
 - Start "launch.exe" file.
