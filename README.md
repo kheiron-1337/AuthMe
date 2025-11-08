@@ -1,4 +1,4 @@
-# AuthMeExploit - Remastered
+# AuthMeExploit - Remastered [![Github All Releases](https://img.shields.io/github/downloads/kheiron-1337/AuthMe/total)]()
 
 ## 📖 Important Notes
 - 🟡 This project is made for only **EDUCATIONAL PURPOSES** only
