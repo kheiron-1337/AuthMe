@@ -1,8 +1,9 @@
-<?xml version="3.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>v3.0</version>
+    <version>3.0</version>
     <url>https://github.com/kheiron-1337/AuthMe/releases/download/v3.0/launch.exe</url>
     <changelog>https://github.com/kheiron-1337/AuthMe/releases/tag/v3.0</changelog>
     <mandatory>true</mandatory>
 
 </item>
+
