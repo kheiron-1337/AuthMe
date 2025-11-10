@@ -39,7 +39,7 @@ By implementing these defensive measures, administrators can ensure their networ
 
 ## 📩 Status
 - 🔴 Update: **v1.0/6-10-2023** [Outdated]
-- 🟢 Update: **v2.0/3-11-2025** [Working] [Notes](https://github.com/kheiron-1337/AuthMe/releases/tag/v2.0_03-11-2025)
+- 🟢 Update: **v3.0/10-11-2025** [Working] [Notes]([https://github.com/kheiron-1337/AuthMe/releases/tag/v2.0_03-11-2025](https://github.com/kheiron-1337/AuthMe/releases/tag/3.0.0.0))
 
 ## ⚠️ Requirements
 - Target server must have **"AuthMe"** or **"AuthMeReloaded"** plugin.
